@@ -6,6 +6,8 @@ import pickle
 from sklearn.preprocessing import StandardScaler, normalize
 from sklearn.mixture import GaussianMixture
 from sklearn.cluster import KMeans
+import matplotlib
+
 
 import numpy as np
 import pandas as pd
