@@ -1,5 +1,5 @@
 # RFM_Clustering
-This Repo is about a Project I made with my Binome Mr Oukacha Mustapha on the Clustering Algorithms of Clients using RFM method.
+This Repo is about a Project I made with my Binome on the Clustering Algorithms of Clients using RFM method.
 
 Data set Used is from the UCI Machine Learning Repository : https://archive.ics.uci.edu/ml/datasets/online+retail.
 
